@@ -4,6 +4,17 @@
 /*francesco*/
 /*--------------*/
 /*alex*/
+.alex_mainDiv {
+    margin: 0px 20%;
+    background-color: rgb(230, 230, 230);
+    width: 60%;
+    height: 300px;
+}
+
+.alex_mainDiv > div {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+}
 /*--------------*/
 /*riccardo*/
 /*--------------*/
