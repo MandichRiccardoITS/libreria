@@ -34,6 +34,7 @@
 /*riccardo*/
 /*--------------*/
 #riccardo{
+    width: 99%;
     background-color: #666666;
     position: fixed;
     bottom: 0;
